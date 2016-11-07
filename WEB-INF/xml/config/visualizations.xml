@@ -1,0 +1,1 @@
+<visualizations><visualization-list name="ajax" show-in-web="true" view-mode="51"><visualization attribute-minimum="0" desc="D3Scatter" drop-zones="plugins.D3Scatter.D3ScatterDropZones" editor-model="plugins.D3Scatter.D3ScatterEditorModel" is-mojo="true" metric-minimum="0" scope="19" style-name="D3Scatter" widget-type="7" /></visualization-list></visualizations>
